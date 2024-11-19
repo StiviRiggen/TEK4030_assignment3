@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC   -shared -Wl,-soname,libqualisys_ros.so -o /home/user/tek4030_project/devel/lib/libqualisys_ros.so CMakeFiles/qualisys_ros.dir/src/Markup.cpp.o CMakeFiles/qualisys_ros.dir/src/Network.cpp.o CMakeFiles/qualisys_ros.dir/src/RTPacket.cpp.o CMakeFiles/qualisys_ros.dir/src/RTProtocol.cpp.o 

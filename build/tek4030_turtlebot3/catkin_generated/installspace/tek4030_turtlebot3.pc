@@ -1,8 +1,0 @@
-prefix=/home/user/tek4030_project/install
-
-Name: tek4030_turtlebot3
-Description: Description of tek4030_turtlebot3
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
