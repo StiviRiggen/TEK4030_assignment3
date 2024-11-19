@@ -1,8 +1,0 @@
-prefix=/home/user/tek4030_project/devel
-
-Name: qualisys_streaming
-Description: Description of qualisys_streaming
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
