@@ -1,0 +1,8 @@
+prefix=/home/user/tek4030_project/install
+
+Name: qualisys_ros
+Description: Description of qualisys_ros
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lqualisys_ros
+Requires: 

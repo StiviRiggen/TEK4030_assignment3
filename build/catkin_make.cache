@@ -1,0 +1,2 @@
+qualisys_ros:qualisys_streaming:tek4030_turtlebot3
+-DCATKIN_DEVEL_PREFIX=/home/user/tek4030_project/devel -DCMAKE_INSTALL_PREFIX=/home/user/tek4030_project/install -G Unix Makefiles
